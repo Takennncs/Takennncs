@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taken</h1>
-<h3 align="center">Developer | Open Source Contributor | Fivem Developer | UCP  + WEB CREATOR </h3>
+<h3 align="center">Developer | Open Source Contributor | Fivem Developer | UCP  + WEB Creator </h3>
 
 <p align="center">
   <a href="https://twitter.com/takenncs" target="blank">
@@ -51,7 +51,7 @@
   <a href="https://twitter.com/takenncs" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takenncs" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/takenncs" target="blank">
+  <a href="https://www.youtube.com/@takenncs3008" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="takenncs" height="30" width="40" />
   </a>
   <a href="https://discord.com/users/1076239551963615282" target="blank">
