@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Taken</h1>
-<h3 align="center">Full Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
+<h1 align="center">Wsg im takenncs/h1>
+<h3 align="center">Developer | Open Source Contributor | Fivem Developer | UCP  + WEB CREATOR </h3>
 
 <p align="center">
   <a href="https://twitter.com/takenncs" target="blank">
@@ -54,8 +54,8 @@
   <a href="https://www.youtube.com/c/takenncs" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="takenncs" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/DISCORD: takenncss" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DISCORD: takenncss" height="30" width="40" />
+  <a href="https://discord.gg/takenncss" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[DISCORD: takenncss](https://discord.com/users/1076239551963615282)" height="30" width="40" />
   </a>
 </p>
 
@@ -64,10 +64,10 @@
 ### 💻 Latest Projects
 <!-- Add your recent projects here -->
 <div align="center">
-  <a href="https://github.com/takennncs/project1">
+  <a href="[https://github.com/takennncs/project](https://github.com/Takennncs/qbcore-atmrob)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=takennncs&repo=project1&theme=dark" />
   </a>
-  <a href="https://github.com/takennncs/project2">
+  <a href="[https://github.com/takennncs/project2](https://github.com/Takennncs/RobNPCs-QBCore)">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=takennncs&repo=project2&theme=dark" />
   </a>
 </div>
