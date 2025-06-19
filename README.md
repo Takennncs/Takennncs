@@ -54,8 +54,8 @@
   <a href="https://www.youtube.com/c/takenncs" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="takenncs" height="30" width="40" />
   </a>
-  <a href="[https://discord.gg/takenncss](https://discord.com/users/1076239551963615282)" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="[DISCORD: takenncss](https://discord.com/users/1076239551963615282)" height="30" width="40" />
+  <a href="https://discord.com/users/1076239551963615282" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord: takenncss" height="30" width="40" />
   </a>
 </p>
 
