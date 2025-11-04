@@ -63,11 +63,11 @@
 
 ### 💻 Latest Projects
 <div align="center">
-  <a href="https://github.com/Takennncs/qbcore-atmrob">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takennncs&repo=qbcore-atmrob&theme=dark" />
+  <a href="https://github.com/Takennncs/template-web">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takennncs&repo=template-web&theme=dark" />
   </a>
-  <a href="https://github.com/Takennncs/RobNPCs-QBCore">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takennncs&repo=RobNPCs-QBCore&theme=dark" />
+  <a href="https://github.com/Takennncs/takenncs-ui">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takennncs&repo=takenncs-ui&theme=dark" />
   </a>
 </div>
 
