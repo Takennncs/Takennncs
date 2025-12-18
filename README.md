@@ -1,5 +1,16 @@
-<h1 align="center">Hi 👋, I'm Takenncs</h1>
-<h3 align="center">Developer | Open Source Contributor | Fivem Developer | UCP  + WEB Creator </h3>
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+    width="35"
+    alt="waving hand"
+  />
+</p>
+
+<h1 align="center">Hi 👋 I'm Takenncs</h1>
+
+<h3 align="center">
+  Developer | Open Source Contributor | FiveM Developer | UCP + Web Creator
+</h3>
 
 <p align="center">
   <a href="https://twitter.com/takenncs" target="blank">
@@ -19,7 +30,7 @@
 ### 🏆 GitHub Trophies
 <p align="center"> 
   <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh">
-    <img src="https://github-profile-trophy.vercel.app/?username=takennncs&theme=onedark&row=2&column=3" alt="takennncs" />
+    <img src="http://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fuser-images.githubusercontent.com%2F6661165%2F102801126-249ab080-43f8-11eb-91c8-f56f94c35777.png" alt="takennncs" />
   </a>
 </p>
 
@@ -36,7 +47,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=takennncs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=takennncs&theme=default&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takennncs&layout=compact&langs_count=8&theme=dark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=takennncs&theme=dark"/>
 </div>
