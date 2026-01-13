@@ -45,15 +45,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=takennncs&theme=default&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takennncs&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=takennncs&theme=dark"/>
-</div>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://dev.to/takenncs" target="blank">
@@ -69,18 +60,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord: takenncss" height="30" width="40" />
   </a>
 </p>
-
----
-
-### 💻 Latest Projects
-<div align="center">
-  <a href="https://github.com/Takennncs/template-web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takennncs&repo=template-web&theme=dark" />
-  </a>
-  <a href="https://github.com/Takennncs/takenncs-ui">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Takennncs&repo=takenncs-ui&theme=dark" />
-  </a>
-</div>
 
 ---
 
