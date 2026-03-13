@@ -27,15 +27,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center"> 
-  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh">
-    <img src="http://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fuser-images.githubusercontent.com%2F6661165%2F102801126-249ab080-43f8-11eb-91c8-f56f94c35777.png" alt="takennncs" />
-  </a>
-</p>
-
----
-
 ### 🔥 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
