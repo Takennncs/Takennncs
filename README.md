@@ -47,9 +47,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=takennncs&theme=github-dark&area=true&hide_border=true&bg_color=0d1117" width="90%" />
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takennncs&theme=github_dark&hide_border=true" width="90%" />
