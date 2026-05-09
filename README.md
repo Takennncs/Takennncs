@@ -47,26 +47,21 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/bar-chart-2.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;GitHub Analytics
-</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=takennncs&theme=github-dark&area=true&hide_border=true&bg_color=0d1117" width="90%" />
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=takennncs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=takennncs&theme=github-dark&hide_border=true&background=0d1117" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takennncs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="45%" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takennncs&theme=github_dark&hide_border=true" width="90%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takennncs&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takennncs&theme=github_dark" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=takennncs&theme=darkhub&no-frame=true&row=2&column=4" width="80%" />
 </div>
 
 <br />
@@ -174,8 +169,4 @@
 
 <p align="center">
   <i>⭐ Star the repos you find useful</i>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/takennncs/takennncs/output/snake.svg" alt="snake" />
 </p>
