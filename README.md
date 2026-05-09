@@ -15,9 +15,6 @@
   <a href="https://www.youtube.com/@takenncs3008" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
   </a>
-  <a href="https://discord.com/users/1076239551963615282" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
-  </a>
   <a href="https://dev.to/takenncs" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" />
   </a>
