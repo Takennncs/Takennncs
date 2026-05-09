@@ -44,7 +44,6 @@
 
 ---
 
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takennncs&theme=github_dark&hide_border=true" width="90%" />
 </div>
@@ -52,10 +51,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takennncs&theme=github_dark" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=takennncs&theme=github_dark" width="45%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=takennncs&theme=darkhub&no-frame=true&row=2&column=4" width="80%" />
 </div>
 
 <br />
