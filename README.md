@@ -29,9 +29,13 @@
   <img src="https://img.shields.io/github/stars/takennncs?logo=github&style=flat&color=0e75b6" alt="github stars" />
 </div>
 
+<br />
+
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/code.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;Tech Stack
+</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,9 +43,13 @@
   </a>
 </p>
 
+<br />
+
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/bar-chart-2.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;GitHub Analytics
+</h2>
 
 <div align="center">
   <table>
@@ -61,38 +69,58 @@
   </table>
 </div>
 
+<br />
+
 ---
 
-## 📈 Contribution Activity
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/activity.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;Contribution Activity
+</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=takennncs&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff" />
 </p>
 
+<br />
+
 ---
 
-## 🏆 Achievements
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/award.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;Achievements
+</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=takennncs&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
+<br />
+
 ---
 
-## 💼 About Me
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/user.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;About Me
+</h2>
+
+<div align="center">
 
 | | |
 |---|---|
-| 🔭 **Currently working on** | FiveM frameworks and UCP systems |
-| 🌱 **Learning** | React Native, Docker, Kubernetes |
-| 👯 **Looking to collaborate on** | Open source FiveM resources |
-| 💬 **Ask me about** | Lua, JavaScript, React, Node.js, FiveM |
-| ⚡ **Fun fact** | Developing for FiveM since 2018 |
-| 🎯 **Goal** | Build production-ready server solutions |
+| **Currently working on** | FiveM frameworks and UCP systems |
+| **Learning** | React Native, Docker, Kubernetes |
+| **Looking to collaborate on** | Open source FiveM resources |
+| **Ask me about** | Lua, JavaScript, React, Node.js, FiveM |
+| **Fun fact** | Developing for FiveM since 2018 |
+| **Goal** | Build production-ready server solutions |
+
+</div>
+
+<br />
 
 ---
 
-## 📁 Featured Work
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/folder.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;Featured Work
+</h2>
 
 <div align="center">
 
@@ -104,9 +132,13 @@
 
 </div>
 
+<br />
+
 ---
 
-## 📺 Latest Content
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/youtube.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;Latest Content
+</h2>
 
 <p align="center">
   <i>FiveM development tutorials and showcases on YouTube</i>
@@ -118,9 +150,13 @@
   </a>
 </p>
 
+<br />
+
 ---
 
-## 📫 Contact
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" width="28" style="vertical-align: middle" />&nbsp;&nbsp;Contact
+</h2>
 
 <div align="center">
   
@@ -132,8 +168,14 @@
 
 </div>
 
+<br />
+
 ---
 
 <p align="center">
   <i>⭐ Star the repos you find useful</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/takennncs/takennncs/output/snake.svg" alt="snake" />
 </p>
